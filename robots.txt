@@ -1,4 +1,3 @@
-
 User-agent: MSNBot
 Disallow: /
 User-agent: Slurp
